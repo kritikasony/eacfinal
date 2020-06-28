@@ -22,7 +22,7 @@ SECRET_KEY = 'tdwl@!torpa224gyz+ifu#h)&b&pd)qb8-+ngmoe4)5rsv1-s_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['kritikasony.pythonanywhere.com']
 
 
 # Application definition
